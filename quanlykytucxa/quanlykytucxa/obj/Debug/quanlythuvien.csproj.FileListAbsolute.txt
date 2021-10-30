@@ -1,0 +1,18 @@
+Z:\Nhom3_To1_tuan10_DTH185234_LETUANANH\quanlythuvien\quanlythuvien\bin\Debug\quanlythuvien.exe.config
+Z:\Nhom3_To1_tuan10_DTH185234_LETUANANH\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csprojResolveAssemblyReference.cache
+Z:\Nhom3_To1_tuan10_DTH185234_LETUANANH\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.frmtaomoitk.resources
+Z:\Nhom3_To1_tuan10_DTH185234_LETUANANH\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.Properties.Resources.resources
+Z:\Nhom3_To1_tuan10_DTH185234_LETUANANH\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csproj.GenerateResource.Cache
+Z:\Nhom3_To1_tuan10_DTH185234_LETUANANH\quanlythuvien\quanlythuvien\bin\Debug\quanlythuvien.exe
+Z:\Nhom3_To1_tuan10_DTH185234_LETUANANH\quanlythuvien\quanlythuvien\bin\Debug\quanlythuvien.pdb
+Z:\Nhom3_To1_tuan10_DTH185234_LETUANANH\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.exe
+Z:\Nhom3_To1_tuan10_DTH185234_LETUANANH\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.pdb
+E:\Nam 3\Lap trinh quan li\QuanLyKyTucXa\quanlythuvien\quanlythuvien\bin\Debug\quanlythuvien.exe.config
+E:\Nam 3\Lap trinh quan li\QuanLyKyTucXa\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.exe
+E:\Nam 3\Lap trinh quan li\QuanLyKyTucXa\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.pdb
+E:\Nam 3\Lap trinh quan li\QuanLyKyTucXa\quanlythuvien\quanlythuvien\bin\Debug\quanlythuvien.exe
+E:\Nam 3\Lap trinh quan li\QuanLyKyTucXa\quanlythuvien\quanlythuvien\bin\Debug\quanlythuvien.pdb
+E:\Nam 3\Lap trinh quan li\QuanLyKyTucXa\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csprojResolveAssemblyReference.cache
+E:\Nam 3\Lap trinh quan li\QuanLyKyTucXa\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.frmtaomoitk.resources
+E:\Nam 3\Lap trinh quan li\QuanLyKyTucXa\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.Properties.Resources.resources
+E:\Nam 3\Lap trinh quan li\QuanLyKyTucXa\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csproj.GenerateResource.Cache
